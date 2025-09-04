@@ -1,5 +1,18 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-/baitulam/baitulam.csproj
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# ASP.NET Core
+wwwroot/lib/
+
+# Project file (local had)
+baitulam/baitulam.csproj
