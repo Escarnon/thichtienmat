@@ -1,0 +1,15 @@
+﻿@model IEnumerable<baitulam.Models.Cook>
+
+<h3>Sản phẩm mới nhất</h3>
+<div class="row">
+    @foreach (var p in Model)
+    {
+        <div class="col-md-3 text-center mb-3">
+            <img src="~/images/@p.Image" class="img-thumbnail" />
+            <p>@p.Name</p>
+        </div>
+    }
+</div>
+
+<!-- Load Component HotProduct -->
+@await Component.InvokeAsync("HotProduct")
