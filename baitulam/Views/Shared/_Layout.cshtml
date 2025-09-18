@@ -1,4 +1,21 @@
-﻿<!DOCTYPE html>
+﻿@using baitulam.Models
+@{
+    // Tạo danh sách category + URL điều hướng
+    var categories = new List<Category>
+    {
+        new Category { Name = "Áo sơ mi",    Url = Url.Action("List","Product", new { category = "aosomi" })     },
+        new Category { Name = "Áo phông",    Url = Url.Action("List","Product", new { category = "aophong" })    },
+        new Category { Name = "Túi xách",    Url = Url.Action("List","Product", new { category = "tuixach" })    },
+        new Category { Name = "Đồng hồ",     Url = Url.Action("List","Product", new { category = "dongho" })     },
+        new Category { Name = "Ví da",       Url = Url.Action("List","Product", new { category = "vida" })       },
+        new Category { Name = "Tai nghe",    Url = Url.Action("List","Product", new { category = "tainghe" })    },
+        new Category { Name = "Loa",         Url = Url.Action("List","Product", new { category = "loa" })        },
+        new Category { Name = "Điện thoại",  Url = Url.Action("List","Product", new { category = "dienthoai" })  },
+        new Category { Name = "Laptop",      Url = Url.Action("List","Product", new { category = "laptop" })     },
+        new Category { Name = "Lò sưởi",     Url = Url.Action("List","Product", new { category = "losuoi" })     },
+    };
+}
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -8,13 +25,33 @@
 <body>
     <div class="container">
         <header class="bg-dark text-white p-3 mb-3">
-            <h2>Cook</h2>
+            <div class="d-flex align-items-center">
+                <h2 class="me-4 mb-0">Cook</h2>
+                <nav>
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/">Trang chủ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/Home/Privacy">Giới thiệu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/Home/Contact">Liên hệ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/Home/Products">Sản phẩm</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
         </header>
+
+
 
         <main class="row">
             <div class="col-md-3">
-                <!-- Load từ Partial View -->
-                @Html.Partial("_CategoryMenu")
+                @* ✔ Gọi partial và TRUYỀN model *@
+                @await Html.PartialAsync("_CategoryMenu", categories)
             </div>
             <div class="col-md-9">
                 @RenderBody()

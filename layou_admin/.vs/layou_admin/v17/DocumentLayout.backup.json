@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\laptrinhweb\\layou_admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\areas\\admin\\views\\shared\\_adminsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\areas\\admin\\views\\shared\\_adminfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\areas\\admin\\views\\shared\\_adminheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\areas\\admin\\views\\shared\\_adminnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\areas\\admin\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:areas\\admin\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|d:\\laptrinhweb\\layou_admin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FE4A0F16-B6EB-4B54-9CAD-5FA528BB0D58}|layou_admin.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:08:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:11:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminSidebar.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_AdminSidebar.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminSidebar.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_AdminSidebar.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminSidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:20:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:20:21.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AdminFooter.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_AdminFooter.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminFooter.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_AdminFooter.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:20:42.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminHeader.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_AdminHeader.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminHeader.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_AdminHeader.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:20:41.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AdminNavbar.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_AdminNavbar.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminNavbar.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Shared\\_AdminNavbar.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:20:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:12:46.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\laptrinhweb\\layou_admin\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\laptrinhweb\\layou_admin\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-18T14:10:03.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

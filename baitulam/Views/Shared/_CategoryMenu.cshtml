@@ -1,0 +1,10 @@
+﻿@model IEnumerable<baitulam.Models.Category>
+
+<ul class="list-group">
+    @foreach (var category in Model)
+    {
+        <li class="list-group-item">
+            <a href="@category.Url">@category.Name</a>
+        </li>
+    }
+</ul>

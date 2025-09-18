@@ -11,8 +11,8 @@ namespace DemoLab.ViewComponents
         {
             var hotcooks = new List<Cook>
             {
-                new Cook { Name = "Nồi cơm điện cao tần Nagakawa HOT1", Image = "noi3.jpg" },
-                new Cook { Name = "Nồi cơm điện cao tần Nagakawa HOT2", Image = "noi4.jpg" }
+                new Cook { Name = "Nồi cơm điện cao tần Nagakawa HOT1", Image = "/image/product/noi1.png" },
+                new Cook { Name = "Nồi cơm điện cao tần Nagakawa HOT2", Image = "/image/product/noi1.png" }
             };
             return View(hotcooks);
         }

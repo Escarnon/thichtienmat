@@ -22,7 +22,6 @@ namespace baitulam.Controllers
                 new Cook { Name = "noi2", Image = "/image/product/noi2.jpg" },
                 new Cook { Name = "noi3", Image = "/image/product/noi3.jpg" },
                 new Cook { Name = "noi4", Image = "/image/product/noi4.jpg" },
-                new Cook { Name = "noi5", Image = "/image/product/noi5.jpg" },
 
             };
             return View(cooks);
@@ -32,23 +31,9 @@ namespace baitulam.Controllers
         {
             return View();
         }
-        public IActionResult CategoryMenu()
-        {
-            var categories = new List<string>
-            {
-                "Áo sơ mi",
-                "Áo phông", 
-                "Túi xách", 
-                "Đồng hồ",
-                "Ví da", 
-                "Tai nghe", 
-                "Loa", 
-                "Điện thoại", 
-                "Laptop", 
-                "Lò sưởi"
-             };
-            return PartialView("_CategoryMenu", categories);
-        }
+        
+      
+
 
 
     }

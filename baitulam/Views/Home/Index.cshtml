@@ -5,7 +5,7 @@
     @foreach (var p in Model)
     {
         <div class="col-md-3 text-center mb-3">
-            <img src="~/images/@p.Image" class="img-thumbnail" />
+            <img src="@p.Image" class="img-thumbnail" />
             <p>@p.Name</p>
         </div>
     }
