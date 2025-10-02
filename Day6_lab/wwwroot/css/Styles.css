@@ -1,0 +1,59 @@
+﻿/* ==========================
+   File: styles.css
+   Mục đích: CSS custom cho giao diện
+   ========================== */
+
+/* Reset cơ bản */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+/* Navbar trên cùng */
+.navbar {
+    background-color: #343a40 !important;
+}
+
+    .navbar .navbar-brand {
+        font-weight: bold;
+        color: #fff;
+    }
+
+    .navbar .nav-link {
+        color: #ddd;
+    }
+
+        .navbar .nav-link:hover {
+            color: #fff;
+        }
+
+/* Sidebar */
+.sb-sidenav {
+    background-color: #212529;
+    height: 100vh;
+}
+
+    .sb-sidenav .nav-link {
+        color: #aaa;
+        padding: 10px 20px;
+        display: block;
+    }
+
+        .sb-sidenav .nav-link:hover {
+            background-color: #343a40;
+            color: #fff;
+        }
+
+/* Nội dung chính */
+.container-fluid {
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #e9ecef;
+    font-size: 14px;
+}
