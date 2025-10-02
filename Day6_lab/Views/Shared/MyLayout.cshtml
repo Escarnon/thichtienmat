@@ -1,0 +1,90 @@
+﻿@*
+    Đây là file Layout chính cho toàn bộ project.
+    Bạn đặt trong: Views/Shared/MyLayout.cshtml
+*@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyWebApp</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <!-- Custom SB Admin CSS -->
+    <link href="~/css/Styles.css" rel="stylesheet" />
+    <!-- Font Awesome (nếu có dùng icon) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+</head>
+<body class="sb-nav-fixed">
+
+    <!-- Begin Top nav -->
+    <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+        <a class="navbar-brand ps-3" href="/">My WebApp</a>
+        <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0"
+                id="sidebarToggle" href="#!">
+            <i class="fas fa-bars"></i>
+        </button>
+    </nav>
+    <!-- End Top nav -->
+
+    <div id="layoutSidenav">
+        <!-- Begin Left menu -->
+        <div id="layoutSidenav_nav">
+            <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+                <div class="sb-sidenav-menu">
+                    <div class="nav">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">
+                            <div class="sb-nav-link-icon"><i class="fas fa-home"></i></div>
+                            Home
+                        </a>
+                        <a class="nav-link" asp-controller="Student" asp-action="Index">
+                            <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
+                            Students
+                        </a>
+                        <a class="nav-link" asp-controller="Student" asp-action="Create">
+                            <div class="sb-nav-link-icon"><i class="fas fa-plus"></i></div>
+                            Add Student
+                        </a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <!-- End Left menu -->
+        <!-- Begin Right content -->
+        <div id="layoutSidenav_content">
+            <main>
+                <div class="container-fluid px-4">
+                    @RenderBody()
+                </div>
+            </main>
+
+            <!-- Footer -->
+            <footer class="py-4 bg-light mt-auto">
+                <div class="container-fluid px-4">
+                    <div class="d-flex align-items-center justify-content-between small">
+                        <div class="text-muted">&copy; @DateTime.Now.Year - MyWebApp</div>
+                        <div>
+                            <a href="#">Privacy Policy</a>
+                            &middot;
+                            <a href="#">Terms &amp; Conditions</a>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <!-- End Right content -->
+    </div>
+
+    <!-- jQuery + Bootstrap JS -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom scripts -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/scripts.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
