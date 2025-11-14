@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\laptrinhweb\\Bài_TH_01\\Bài_TH_01.csproj",
+      "projectUniqueName": "D:\\laptrinhweb\\thichtienmat\\Bài_TH_01\\Bài_TH_01.csproj",
       "projectName": "Bài_TH_01",
-      "projectPath": "D:\\laptrinhweb\\Bài_TH_01\\Bài_TH_01.csproj",
+      "projectPath": "D:\\laptrinhweb\\thichtienmat\\Bài_TH_01\\Bài_TH_01.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\laptrinhweb\\Bài_TH_01\\obj\\",
+      "outputPath": "D:\\laptrinhweb\\thichtienmat\\Bài_TH_01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5639,7 +5639,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
