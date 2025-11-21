@@ -8,6 +8,7 @@ namespace Bài_TH_01.Controllers
 {
     public class LearnerController : Controller
     {
+        private int pageSize = 3;
         private SchoolContext db;
         public LearnerController(SchoolContext context)
         {
@@ -15,8 +16,35 @@ namespace Bài_TH_01.Controllers
         }
         public IActionResult Index(int? mid)
         {
-            var learners = db.Learners.Include(m => m.Major).ToList();
-            return View(learners);
+            var learners = (IQueryable<Learner>)db.Learners.Include(m=>m.Major);
+            if (mid != null)
+            {
+                learners = (IQueryable<Learner>)db.Learners.Where(l => l.MajorID == mid).Include(m=>m.Major);
+            }
+            int pageNum = (int)Math.Ceiling(learners.Count()/(float)pageSize);
+            ViewBag.PageNum = pageNum;
+            var result = learners.Take(pageSize).ToList();
+
+            return View(result);
+        }
+        public IActionResult LearnerFilter(int? mid, string? keyword, int? pageIndex)
+        {
+            var learners = (IQueryable<Learner>)db.Learners;
+            int page = (int)(pageIndex == null || pageIndex <= 0 ? 1 : pageIndex);
+            if (mid != null)
+            {
+                learners = learners.Where(l => l.MajorID == mid);
+                ViewBag.mid = mid;
+            }
+            if (keyword != null)
+            {
+                learners = learners.Where(l => l.FirstMidName.ToLower().Contains(keyword.ToLower()));
+                ViewBag.keyword = keyword;
+            }
+            int pageNum = (int)Math.Ceiling(learners.Count() / (float)pageSize);
+            ViewBag.PageNum = pageNum;
+            var result = learners.Skip((page - 1) * pageSize).Take(pageSize).Include(m => m.Major);
+            return PartialView("LearnerTable", result);
         }
         public IActionResult LearnerByMajorID(int mid)
         {

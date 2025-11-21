@@ -1,169 +1,169 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\laptrinhweb\\B\u00E0i_TH_01\\",
+  "WorkspaceRootPath": "D:\\laptrinhweb\\TH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\data\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:data\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\data\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:data\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\b\u00E0i_th_01\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|d:\\laptrinhweb\\th\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E063E5B7-6237-463F-B07A-7BD22A6F95D1}|B\u00E0i_TH_01.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -174,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,49 +194,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LearnerTable.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\LearnerTable.cshtml",
-              "RelativeDocumentMoniker": "Views\\Learner\\LearnerTable.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\LearnerTable.cshtml",
-              "RelativeToolTip": "Views\\Learner\\LearnerTable.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T10:52:47.183Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Learner\\Index.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\Index.cshtml",
-              "RelativeToolTip": "Views\\Learner\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwDcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T10:28:08.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LearnerController.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Controllers\\LearnerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LearnerController.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Controllers\\LearnerController.cs",
-              "RelativeToolTip": "Controllers\\LearnerController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T10:28:41.556Z"
+              "WhenOpened": "2025-11-07T00:49:37.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Learner\\Index.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T10:28:08.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:24:13.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Mylayout.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Mylayout.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\Mylayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Mylayout.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Mylayout.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\Mylayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\Mylayout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-07T01:41:08.903Z",
               "EditorCaption": ""
@@ -244,10 +247,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T06:37:04.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LearnerController.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "Controllers\\LearnerController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvy4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:28:41.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LearnerTable.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Learner\\LearnerTable.cshtml",
+              "RelativeDocumentMoniker": "Views\\Learner\\LearnerTable.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Learner\\LearnerTable.cshtml",
+              "RelativeToolTip": "Views\\Learner\\LearnerTable.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T10:52:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RenderMajor.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "RelativeToolTip": "Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -255,11 +296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\Create.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Learner\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Learner\\Create.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Learner\\Create.cshtml",
               "RelativeToolTip": "Views\\Learner\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -267,11 +308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MajorViewComponent.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\ViewComponents\\MajorViewComponent.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\ViewComponents\\MajorViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\MajorViewComponent.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\ViewComponents\\MajorViewComponent.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\ViewComponents\\MajorViewComponent.cs",
               "RelativeToolTip": "ViewComponents\\MajorViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,11 +320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\Delete.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Learner\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Learner\\Delete.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Learner\\Delete.cshtml",
               "RelativeToolTip": "Views\\Learner\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -291,11 +332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SchoolContext.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Data\\SchoolContext.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "Data\\SchoolContext.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Data\\SchoolContext.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Data\\SchoolContext.cs",
               "RelativeToolTip": "Data\\SchoolContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -303,11 +344,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RenderLeftMenu.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeToolTip": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -315,11 +356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "DbInitalizer.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Data\\DbInitalizer.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Data\\DbInitalizer.cs",
               "RelativeDocumentMoniker": "Data\\DbInitalizer.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Data\\DbInitalizer.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Data\\DbInitalizer.cs",
               "RelativeToolTip": "Data\\DbInitalizer.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAQwAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,23 +368,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T00:49:37.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAEEAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Program.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Program.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -375,11 +404,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\appsettings.json",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\appsettings.json",
+              "ToolTip": "D:\\laptrinhweb\\TH\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -387,11 +416,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "MenuItem.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\MenuItem.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "Models\\MenuItem.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\MenuItem.cs",
               "RelativeToolTip": "Models\\MenuItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,11 +428,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Student.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Student.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,11 +440,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Major.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Major.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\Major.cs",
               "RelativeDocumentMoniker": "Models\\Major.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Major.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\Major.cs",
               "RelativeToolTip": "Models\\Major.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,11 +452,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Learner.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Learner.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\Learner.cs",
               "RelativeDocumentMoniker": "Models\\Learner.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Learner.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\Learner.cs",
               "RelativeToolTip": "Models\\Learner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,11 +464,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Gender.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Gender.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "Models\\Gender.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Gender.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\Gender.cs",
               "RelativeToolTip": "Models\\Gender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -447,11 +476,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -459,11 +488,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Enrollment.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Enrollment.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "Models\\Enrollment.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\Enrollment.cs",
               "RelativeToolTip": "Models\\Enrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -471,11 +500,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Course.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Course.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Course.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\Course.cs",
               "RelativeToolTip": "Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,11 +512,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\Edit.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Learner\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Learner\\Edit.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Learner\\Edit.cshtml",
               "RelativeToolTip": "Views\\Learner\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -495,11 +524,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Branch.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Branch.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "Models\\Branch.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Models\\Branch.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Models\\Branch.cs",
               "RelativeToolTip": "Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,23 +536,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MyLayoutHelper.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\MyLayoutHelper.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeToolTip": "Views\\Shared\\MyLayoutHelper.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T06:37:04.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "LeftMenu.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\LeftMenu.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\LeftMenu.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\LeftMenu.cshtml",
               "RelativeToolTip": "Views\\Shared\\LeftMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -531,11 +548,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,11 +560,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -555,11 +572,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Student\\Create.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAGcAAAAAAAAAAAAmwH8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -567,11 +584,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -579,11 +596,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -591,11 +608,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -603,11 +620,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "RenderViewComponent.cs",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\ViewComponents\\RenderViewComponent.cs",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\RenderViewComponent.cs",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "D:\\laptrinhweb\\TH\\ViewComponents\\RenderViewComponent.cs",
               "RelativeToolTip": "ViewComponents\\RenderViewComponent.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -615,11 +632,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Footer.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Footer.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\Footer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Footer.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\Footer.cshtml",
               "RelativeToolTip": "Views\\Shared\\Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -627,11 +644,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "TopNav.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\TopNav.cshtml",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\TopNav.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\TopNav.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\TopNav.cshtml",
               "RelativeToolTip": "Views\\Shared\\TopNav.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -641,9 +658,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\laptrinhweb\\TH\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -653,9 +670,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "script.js",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\wwwroot\\js\\script.js",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\laptrinhweb\\TH\\wwwroot\\js\\script.js",
               "RelativeToolTip": "wwwroot\\js\\script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -665,25 +682,13 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "styles.css",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\wwwroot\\css\\styles.css",
+              "DocumentMoniker": "D:\\laptrinhweb\\TH\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\wwwroot\\css\\styles.css",
+              "ToolTip": "D:\\laptrinhweb\\TH\\wwwroot\\css\\styles.css",
               "RelativeToolTip": "wwwroot\\css\\styles.css",
               "ViewState": "AgIAAI8vAAAAAAAAAAAwwEMyAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-11-07T05:58:22.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\laptrinhweb\\B\u00E0i_TH_01\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAhwB8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:24:13.236Z"
             }
           ]
         },
